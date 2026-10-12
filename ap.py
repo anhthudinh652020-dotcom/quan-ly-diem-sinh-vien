@@ -132,4 +132,4 @@ plt.close(fig)
 
 # 10. Thong tin nguoi tao
 st.markdown("---")
-st.caption("Người thực hiện: [HỌ VÀ TÊN] | MSSV: [MÃ SỐ SINH VIÊN]")
+st.caption("Người thực hiện: [Đinh Thị Anh Thư] | MSSV: [037308008122]")
